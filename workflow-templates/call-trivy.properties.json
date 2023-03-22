@@ -1,0 +1,11 @@
+{
+    "name": "Call Trivy Image Scan",
+    "description": "Call the reusable workflow in `actions` repo",
+    "iconName": "octicon smiley",
+    "categories": [
+        "Dockerfile"
+    ],
+    "filePatterns": [
+        "^Dockerfile"
+    ]
+}
